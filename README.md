@@ -1,1 +1,8 @@
-# deep-chat-Vue3
+# Deep chat Vue3
+
+## Tech stacks
+- Vue3
+- deep-chat
+
+
+
